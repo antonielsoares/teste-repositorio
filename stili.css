@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.teste01{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
+.teste01 h3{
+    font-size: 22px;
+}
+.baner01{
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+}
+.baner02{
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+.baner02 img{
+    margin: 0 5px;
+}
+.testo01{
+    background-color: blueviolet;
+    text-align: center;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.testo01 > h2{
+
+    width: 323px;
+    padding: 20px 0;
+    color: white;
+    font-size: 12px;
+}
