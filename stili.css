@@ -37,3 +37,13 @@
     color: white;
     font-size: 12px;
 }
+
+.videos{
+    width: 100%;
+    height: 344px;
+    background-color: aqua;
+}
+.videos video{
+    width: 333px;
+    height: 222px;
+}
