@@ -43,7 +43,14 @@
     height: 344px;
     background-color: aqua;
 }
-.videos video{
-    width: 333px;
-    height: 222px;
+.videos > h2{
+    text-align: center;
+    color: blue;
+    padding: 20px 0;
+}
+.video{
+    position: absolute;
+    left: 20%;
+    
+    
 }
